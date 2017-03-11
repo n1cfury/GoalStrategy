@@ -14,17 +14,24 @@ How it works:
 There are two spreadsheets in the file that are separated by design to keep the focus simple and it would've been a mess to keep everything on one page.
 
 	Stragetic Guide
-	Each category is ranked per metric.  The best part is, once I put everything together it has been really simple.  I will evaluate my progress and the system at the end of the year and adjust if needed.  
-	Basically, I used the CARVER matrix to determine the 'how' for this list, and the SMART system for the 'what' to measure.  
-	I then came up with a handful of topics asking "what do I want to be working toward".
-	By giving them a quantitative value, it eliminated any bias.  Now that everything has a point total, I highlighted them based on highest to lowest (green to red).
+	Each category is ranked per metric.  The best part is, once I put everything together it has been really simple.  
+	I will evaluate my progress and the system at the end of the year and adjust if needed.  
+	Basically, I used the CARVER matrix to determine the 'how' for this list, and the SMART system to define
+	what I want to measure.
+	I then came up with a handful of topics asking "what do I want to be working toward".  By giving them a quantitative value, 
+	it eliminated any bias.  Now that everything has a point total, I highlighted them based on highest to 
+	lowest (green to red).
 		
 	Tactical Guide	
-	This shows active tasks for each month.  Unless an item has a definitive date (e.g. conferences), I dont create new tasks until the first weekend of a new month.  
-	When tasks are completed, they are highlighed green and the points are added up and accumulated during the year (as of Nov 2016)
+	This shows active tasks for each month.  Unless an item has a definitive date (e.g. conferences), 
+	I dont create new tasks until the first weekend of a new month.  
+	When tasks are completed, they are highlighed green and the points are added up and accumulated 
+	during the year (as of Nov 2016)
 	Items in gray are thought of ahead of time but changed to black during the first weekend of that month.  
 	If an item isn't completed at the end of month I avoid rolling it over to prevent procrastination.  
-	There's enough stuff to do each month, however this isn't meant to get a perfect score.  Scoring too high may mean I either set tasks that were too easy, or didn't challenge myself enough.  
+	There's enough stuff to do each month, however this isn't meant to get a perfect score.  
+	Scoring too high may mean I either set tasks that were too easy, 
+	or didn't challenge myself enough.  
 
 Sources and Takeaways:
 First, I have to give credit where credit is due to @sneakerhax for the idea of creating a system to clearly define a progression map of skills, the one thing I decided after looking at his system was to create my own.  
