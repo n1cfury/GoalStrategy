@@ -11,18 +11,19 @@ Solution:
 Create a system I can use that enables me to build my skills, wasting the least amount of time.  It took me nearly two years to get around to finishing the book [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280), so finding a way that works for me has been rather effective.
 
 How it works:
-There are two spreadsheets in the file that are separated by design to keep the focus simple and it would've been a mess to keep everything on one page.
+There are two spreadsheets in the file that are separated by design to keep the focus simple and it would've been a mess to keep everything on one page.  I will update this as I progress.
 
 	Stragetic Guide
 	Each category is ranked per metric.  The best part is, once I put everything together it has been really simple.  
 	I will evaluate my progress and the system at the end of the year and adjust if needed.  
 	Basically, I used the CARVER matrix to determine the 'how' for this list, and the SMART system to define
 	what I want to measure.
-	I then came up with a handful of topics asking "what do I want to be working toward".  By giving them a quantitative value, 
-	it eliminated any bias.  Now that everything has a point total, I highlighted them based on highest to 
-	lowest (green to red).
-		
-	Tactical Guide	
+	I then came up with a handful of topics asking "what do I want to be working toward".  
+	By giving them a quantitative value, it eliminated any bias.  With everything added up, I now
+	have a value to rank each category.  Since a couple of them were tied I chose the one with a more tangible
+	value.
+
+	Tactical Guide
 	This shows active tasks for each month.  Unless an item has a definitive date (e.g. conferences), 
 	I dont create new tasks until the first weekend of a new month.  
 	When tasks are completed, they are highlighed green and the points are added up and accumulated 
@@ -34,7 +35,7 @@ There are two spreadsheets in the file that are separated by design to keep the 
 	or didn't challenge myself enough.  
 
 Sources and Takeaways:
-First, I have to give credit where credit is due to @sneakerhax for the idea of creating a system to clearly define a progression map of skills, the one thing I decided after looking at his system was to create my own.  
+First, I have to give credit where credit is due to [@sneakerhax](https://twitter.com/sneakerhax) for the idea of creating a system to clearly define a progression map of skills, the one thing I decided after looking at his system was to create my own.  
 
 The [SMART Review](https://www.cleverbridge.com/corporate/5-elements-of-smart-performance-reviews/)
 This is partially based on the SMART Review system used by some Fortune 500 companies.  I found this system effective because it clearly defined how to set a goal and what gives each goal value.  Aside from this, I wanted to mold this system on the premise of evaluating my progress at the end of the year.
