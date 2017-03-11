@@ -14,13 +14,16 @@ How it works:
 There are two spreadsheets in the file that are separated by design to keep the focus simple and it would've been a mess to keep everything on one page.
 
 	Stragetic Guide
-	Each category is ranked per metric.  The beauty of this is once I put all of this together the first time, I didnt need to keep reminding myself of how it worked, and I will evaluate my progress and the system at the end of the year.  
-	Basically, I used the CARVER matrix to determine the 'how' for this list, and the SMART system for the 'what' to measure.  I then came up with a handful of topics to focus on and determined from top to bottom what they ranked for each SMART category.  
+	Each category is ranked per metric.  The best part is, once I put everything together it has been really simple.  I will evaluate my progress and the system at the end of the year and adjust if needed.  
+	Basically, I used the CARVER matrix to determine the 'how' for this list, and the SMART system for the 'what' to measure.  
+	I then came up with a handful of topics asking "what do I want to be working toward".
 	By giving them a quantitative value, it eliminated any bias.  Now that everything has a point total, I highlighted them based on highest to lowest (green to red).
 		
 	Tactical Guide	
-	This shows active tasks for each month.  Unless an item has a definitive date (e.g. conferences), I dont create new tasks until the first weekend of a new month.  When tasks are completed, they are highlighed green and the points are added up.  
-	The percentages indicate precentage of completion throughout the year, in which case I started this November 2016.	Items in gray are thought of ahead of time but changed to black during the first weekend of that month.  If an item isn't completed at the end of the month its not highlighted and does not roll over to the next month to prevent procrastination.  
+	This shows active tasks for each month.  Unless an item has a definitive date (e.g. conferences), I dont create new tasks until the first weekend of a new month.  
+	When tasks are completed, they are highlighed green and the points are added up and accumulated during the year (as of Nov 2016)
+	Items in gray are thought of ahead of time but changed to black during the first weekend of that month.  
+	If an item isn't completed at the end of month I avoid rolling it over to prevent procrastination.  
 	There's enough stuff to do each month, however this isn't meant to get a perfect score.  Scoring too high may mean I either set tasks that were too easy, or didn't challenge myself enough.  
 
 Sources and Takeaways:
